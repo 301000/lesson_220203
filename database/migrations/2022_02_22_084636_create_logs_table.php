@@ -22,7 +22,7 @@ class CreateLogsTable extends Migration
     }
 
     /**
-     * Reverse the migrations.
+     * Reverse the migrations.1
      *
      * @return void
      */
